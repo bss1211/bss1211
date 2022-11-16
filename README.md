@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bss1211" alt="bss1211" /></a> </p>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently exploring 
 
 - 📫 How to reach me **bss1211@gmail.com**
 
